@@ -5,6 +5,9 @@ A Practical Study Plan to become a successful cybersecurity engineer based on ro
 **It will cover but not limited to:**
 
 **_Done_**
+
+
+**_ToDo_**
 1. [Common Skills for Security Study Plan](common-skills-study-plan.md)
 2. [AWS Security Study Plan](aws-security-study-plan.md)
 3. [GCP Security Study Plan](gcp-security-study-plan.md)
@@ -13,12 +16,10 @@ A Practical Study Plan to become a successful cybersecurity engineer based on ro
 6. [API Security Study Plan](api-security-study-plan.md)
 7. [Threat Modeling Study Plan](threat-modeling-study-plan.md)
 8. [GRC Study Plan](grc-study-plan.md)
-
-**_ToDo_**
-1. [Azure Security Study Plan](azure-security-study-plan.md)
-2. [DevSecOps Study Plan](devsecops-study-plan.md)
-3. [Docker Security Study Plan](docker-security-study-plan.md)
-4. [Kubernetes Security Study Plan](kubernetes-security-study-plan.md)
+2. [Azure Security Study Plan](azure-security-study-plan.md)
+3. [DevSecOps Study Plan](devsecops-study-plan.md)
+4. [Docker Security Study Plan](docker-security-study-plan.md)
+5. [Kubernetes Security Study Plan](kubernetes-security-study-plan.md)
 6. [Network Security Study Plan](network-security-study-plan.md)
 7. [Cryptography Study Plan](cryptography-study-plan.md)
 8. [Software Supply Chain Security Study Plan](software-supply-chain-security-study-plan.md)
